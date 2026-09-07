@@ -1,0 +1,4 @@
+git clone https://slglgl185-svg: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@github.com/slglgl185-svg/jenkins_Udemy.git ~/code/my-repo
+cd ~/code/my-repo
+git config --global user.email "slglgl185@gmail.com"
+git config --global user.name "Incho Hwang"
