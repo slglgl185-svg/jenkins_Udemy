@@ -1,0 +1,5 @@
+cd ~/code/my-repo
+nano main.go # Copy the content of the main.go asset. Then, save it.
+ 
+git add main.go && git commit -m "First commit" && git push -u origin master # Creates master branch
+git checkout -b develop && git push -u origin develop # Creates develop branch
